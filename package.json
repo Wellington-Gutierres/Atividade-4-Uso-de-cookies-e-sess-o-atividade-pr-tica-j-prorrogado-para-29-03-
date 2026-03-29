@@ -1,0 +1,27 @@
+{
+  "name": "atividade-4-uso-de-cookies-e-sess-o-atividade-pr-tica-j-prorrogado-para-29-03-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wellington-Gutierres/Atividade-4-Uso-de-cookies-e-sess-o-atividade-pr-tica-j-prorrogado-para-29-03-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wellington-Gutierres/Atividade-4-Uso-de-cookies-e-sess-o-atividade-pr-tica-j-prorrogado-para-29-03-/issues"
+  },
+  "homepage": "https://github.com/Wellington-Gutierres/Atividade-4-Uso-de-cookies-e-sess-o-atividade-pr-tica-j-prorrogado-para-29-03-#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0"
+  }
+}
